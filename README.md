@@ -26,14 +26,18 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png" width="36" height="36" alt="Linux" /></a>
+ <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dominhhai/image/upload/code/git.png" width="36" height="36" alt="Git" /></a>
+  
 </p>
 
 ### SecTools 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36" alt="Burpsuite" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://taiwebs.com/upload/icons/hashcat220-220.png" width="36" height="36" alt="Hashcat" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36" alt="dirbuster" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="36" height="36" alt="Wireshark" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36" alt="Burpsuite" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://taiwebs.com/upload/icons/hashcat220-220.png" width="36" height="36" alt="Hashcat" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36" alt="dirbuster" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" width="36" height="36" alt="Wireshark" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" /></a>
 </p>
 
 ### Badges
