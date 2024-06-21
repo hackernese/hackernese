@@ -1,8 +1,10 @@
-<h1 align='center' > Hackernese </h1>
+<div align="left">
+  <img width="100%" src="https://r4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-51d8bf6240c3e71501bb2c16481ab5df.jpg" />
+<h1 align='center' >🔥 Hackernese ❤️‍🔥</h1>
+<p align='center' >I am a Penetration Tester, a Fullstack developer, an IoT enthusiast and possibly a researcher soon...</p>
 
-<p align='center' > I love programming, coding, technology and security stuffs </p>
 
-### Skills
+### Skills :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -155,7 +157,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-### SecTools 
+<br />
+
+### Security tools : 
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"><img
             src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36"
@@ -184,7 +188,7 @@
 </p>
 <br />
 
-### Github stats
+### Github stats :
 <p><img height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackernese&show_icons=true&locale=en&layout=compact&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a&show_icons=true&hide=" alt="hackernese" /></p>
 <p>&nbsp;<img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=hackernese&show_icons=true&locale=en&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a" alt="hackernese" /></p>
 
