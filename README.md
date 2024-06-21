@@ -3,7 +3,6 @@
 <p align='center' > I love programming, coding, technology and security stuffs </p>
 
 ### Skills
----
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -157,7 +156,6 @@
 </div>
 
 ### SecTools 
----
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"><img
             src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36"
@@ -184,13 +182,11 @@
             src="https://gitlab.com/uploads/-/system/group/avatar/8033162/edb-spider-orange.png" width="36" height="36"
             alt="Nmap" /></a>
 </p>
+<br />
 
-### Badges
----
-<b>My GitHub Stats</b>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackernese&show_icons=true&locale=en&layout=compact&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a&show_icons=true&hide=" alt="hackernese" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackernese&show_icons=true&locale=en&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a" alt="hackernese" /></p>
+### Github stats
+<p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackernese&&card_width=405&show_icons=true&locale=en&layout=compact&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a&show_icons=true&hide=" alt="hackernese" /></p>
+<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=hackernese&show_icons=true&card_width=480&locale=en&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a" alt="hackernese" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackernese&bg_color=27272a&color=ffffff&line=84cc16&point=ffffff&area_color=27272a&area=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackernese&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
