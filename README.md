@@ -1,5 +1,6 @@
 <div align="left">
-  <img width="100%" src="https://r4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-51d8bf6240c3e71501bb2c16481ab5df.jpg" />
+<!--   <img width="100%" src="https://r4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-51d8bf6240c3e71501bb2c16481ab5df.jpg" /> -->
+    <img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbhyFhMarQCKOMHMP-HhvC7d2P_ga6xm-8mXWKXXadOvkl5AYwxcDjPKEfbRsSvSUCm6xb6Y8PZjSkg9fkOeFhVMH0WHQg2HcE=w1003-h961-rw-v1" />
 <h1 align='center' >🔥 Hackernese ❤️‍🔥</h1>
 <p align='center' >I am a Penetration Tester, a Fullstack developer, an IoT enthusiast and possibly a researcher soon...</p>
 
@@ -160,32 +161,51 @@
 <br />
 
 ### Security tools : 
-<p align="left">
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" width="36" height="36"
-            alt="Burpsuite" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img src="https://taiwebs.com/upload/icons/hashcat220-220.png"
-            width="36" height="36" alt="Hashcat" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" width="36" height="36"
-            alt="dirbuster" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png"
-            width="36" height="36" alt="Wireshark" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36"
-            height="36" alt="Nmap" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"
-            width="36" height="36" alt="Nmap" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg"
-            width="36" height="36" alt="Nmap" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" width="36"
-            height="36" alt="Nmap" /></a>
-    <a href="#" target="_blank" rel="noreferrer"><img
-            src="https://gitlab.com/uploads/-/system/group/avatar/8033162/edb-spider-orange.png" width="36" height="36"
-            alt="Nmap" /></a>
-</p>
+<div align="left">
+        <img src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" height="40" alt="Burpsuite" /><img
+                width="12" />
+        <img src="https://taiwebs.com/upload/icons/hashcat220-220.png" height="40" alt="Hashcat" /><img width="12" />
+        <img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" height="40" alt="dirbuster" /><img
+                width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png"
+                height="40" alt="Wireshark" /><img width="12" />
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap" /><img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"
+                height="40" alt="Kali Linux" /><img width="12" />
+        <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" alt="Hydra" /><img width="12" />
+        <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="40"
+                alt="Sqlmap" /><img width="12" />
+        <img src="https://gitlab.com/uploads/-/system/group/avatar/8033162/edb-spider-orange.png" height="40"
+                alt="Exploit-db" /><img width="12" />
+        <img src="https://www.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" height="40"
+                alt="John The Ripper" /><img width="12" />
+        <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/30681/1702934471_Metasploit.png"
+                height="40" alt="Metasploit" /><img width="12" />
+        <img src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" height="40" alt="Ettercap" /><img
+                width="12" />
+        <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" height="40" alt="WFuzz" /><img width="12" />
+        <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" height="40" alt="Gobuster" /><img
+                width="12" />
+        <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" height="40" alt="Netcat" /><img
+                width="12" />
+        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40" alt="Aircrack" /><img
+                width="12" />
+        <img src="https://www.wappalyzer.com/images/logo/mark-dark.png" height="40" alt="Wappalyzer" /><img
+                width="12" />
+        <img src="https://is1-ssl.mzstatic.com/image/pf/us/r30/Purple/v4/6c/7d/84/6c7d8436-2454-f914-82dc-4660c833d870/mzm.fpkxtkby.png"
+                height="40" alt="Shodan" /><img width="12" />
+        <img src="https://sathisharthars.wordpress.com/wp-content/uploads/2014/03/logo_nessus_fullcolor_rgb-01.png"
+                height="40" alt="Nessus" /><img width="12" />
+        <img src="https://www.kali.org/tools/wordlists/images/wordlists-logo.svg" height="40" alt="Seclist" /><img
+                width="12" />
+        <img src="https://www.kali.org/tools/cewl/images/cewl-logo.svg" height="40" alt="Cewl" /><img width="12" />
+        <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" height="40" alt="Nikto" /><img width="12" />
+        <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" height="40" alt="Ffuf" /><img width="12" />
+        <img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" height="40" alt="tcpdump" /><img
+                width="12" />
+        <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" height="40" alt="Amass" /><img width="12" />
+        <!-- <img src="" height="40" alt="" /><img width="12" /> -->
+</div>
 <br />
 
 ### Github stats :
