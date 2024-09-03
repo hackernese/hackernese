@@ -1,6 +1,6 @@
 <div align="left">
-<!--   <img width="100%" src="https://r4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-51d8bf6240c3e71501bb2c16481ab5df.jpg" /> -->
-    <img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbhyFhMarQCKOMHMP-HhvC7d2P_ga6xm-8mXWKXXadOvkl5AYwxcDjPKEfbRsSvSUCm6xb6Y8PZjSkg9fkOeFhVMH0WHQg2HcE=w1003-h961-rw-v1" />
+<!--   <img width="100%" src="https://r4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-51d8bf6240c3e71501bb2c16481ab5df.jpg" /> 
+    <img width="100%" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbhyFhMarQCKOMHMP-HhvC7d2P_ga6xm-8mXWKXXadOvkl5AYwxcDjPKEfbRsSvSUCm6xb6Y8PZjSkg9fkOeFhVMH0WHQg2HcE=w1003-h961-rw-v1" /> -->
 <h1 align='center' >🔥 Hackernese ❤️‍🔥</h1>
 <p align='center' >I am a Penetration Tester, a Fullstack developer, an IoT enthusiast and possibly a researcher soon...</p>
 
