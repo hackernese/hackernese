@@ -85,6 +85,7 @@
 <br />
 
 ### Github stats
+![Stats](./profile/stats.svg)
 <!-- <p><img height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackernese&show_icons=true&locale=en&layout=compact&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a&show_icons=true&hide=" alt="hackernese" /></p>
 <p>&nbsp;<img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=hackernese&show_icons=true&locale=en&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a" alt="hackernese" /></p> -->
 
