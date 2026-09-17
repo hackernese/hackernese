@@ -6,14 +6,16 @@
 ██  ██  ▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄  ▄▄ ▄▄▄▄▄  ▄▄▄▄ ▄▄▄▄▄ 
 ██████ ██▀██ ██▀▀▀ ██▄█▀ ██▄▄  ██▄█▄ ███▄██ ██▄▄  ███▄▄ ██▄▄  
 ██  ██ ██▀██ ▀████ ██ ██ ██▄▄▄ ██ ██ ██ ▀██ ██▄▄▄ ▄▄██▀ ██▄▄▄ 
-                                                              
-```
 
-<p align="center">Hi 👋, I am a penetration tester, a fullstack developer, an IoT enthusiast and possibly a researcher soon... ¯\_(ツ)_/¯</p>
+
+Hi 👋, I am a penetration tester, a fullstack developer, an IoT enthusiast and possibly a researcher soon... ¯\_(ツ)_/¯                                                       
+```
+<p align="center"></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackernese&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
 
-<table style="width:100%; table-layout:fixed;">
+
+<!-- <table style="width:100%; table-layout:fixed;">
   <tr>
     <td  style="width:20%; vertical-align:top; padding-top:0;">
         <div align="left">
@@ -86,7 +88,7 @@
         </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- ![Stats](./profile/stats.svg) -->
