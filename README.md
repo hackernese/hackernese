@@ -8,7 +8,8 @@
 ██  ██ ██▀██ ▀████ ██ ██ ██▄▄▄ ██ ██ ██ ▀██ ██▄▄▄ ▄▄██▀ ██▄▄▄ 
 
 
-Hi 👋, I am a penetration tester, a fullstack developer, an IoT enthusiast and possibly a researcher soon... ¯\_(ツ)_/¯                                                       
+Hi 👋, I am a penetration tester, a fullstack developer, an IoT enthusiast
+and possibly a researcher soon... ¯\_(ツ)_/¯                                                       
 ```
 <p align="center"></p>
 
