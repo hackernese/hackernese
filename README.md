@@ -12,12 +12,11 @@ Hi 👋, I am a penetration tester, a fullstack developer, an IoT enthusiast
 and possibly a researcher soon... ¯\_(ツ)_/¯                                                       
 ```
 <p align="center"></p>
-
+ 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=hackernese&theme=onedark&hide_border=false&layout=compact" width="48%" height="1900px" />
-  <img src="https://github-readme-stats.shion.dev/api?username=hackernese&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>  
+  <img src="https://streak-stats.demolab.com/?user=hackernese&theme=onedark&hide_border=false&card_height=210" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hackernese&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
 </div>
-
 
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackernese&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
