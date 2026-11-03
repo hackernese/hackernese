@@ -14,8 +14,8 @@ and possibly a researcher soon... ¯\_(ツ)_/¯
 <p align="center"></p>
 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=hackernese&theme=onedark&hide_border=false&layout=compact&card_width=505"/>
-  <img src="https://github-readme-stats.shion.dev/api?username=hackernese&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" />  
+  <img src="https://streak-stats.demolab.com/?user=hackernese&theme=onedark&hide_border=false&layout=compact" width="48%" height="1900px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hackernese&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>  
 </div>
 
 
