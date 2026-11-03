@@ -13,10 +13,17 @@ and possibly a researcher soon... ¯\_(ツ)_/¯
 ```
 <p align="center"></p>
 
+<div>
+  <img src="https://streak-stats.demolab.com/?user=hackernese&theme=onedark&hide_border=false&layout=compact&card_width=505"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hackernese&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&card_width=500" />  
+</div>
+
+
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackernese&theme=onedark-duo&date_format=j%2Fn%5B%2FY%5D&card_width=1100)](https://git.io/streak-stats)
 
 
-<!-- <table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td  style="width:20%; vertical-align:top; padding-top:0;">
         <div align="left">
